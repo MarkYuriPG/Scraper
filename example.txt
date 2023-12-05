@@ -1,0 +1,22 @@
+- "Network": Two or more connected computers that can share resources such as data, a printer, an Internet connection, applications, or a combination of 
+these resources.
+- Types of Networks:
+  - Local Area Network (LAN)
+  - Metropolitan Area Network (MAN)
+  - Wide Area Network (WAN)
+- WAN Technologies: Circuit-switched, Asynchronous serial, ISDN Layer 1, Leased Line, Synchronous serial, Broadband Access, Cable, DSL, Wireless WAN, Frame-Relay.
+- Network Topologies: Bus Topology, Star Topology, Extended Star Topology.
+- OSI Model: A layered network model that reduces complexity, standardizes interfaces, facilitates modular engineering, ensures interoperable technology, accelerates evolution, and simplifies teaching and learning.
+- Seven Layers of the OSI Model: 
+  - Application Layers (Upper Layers): Network Processes to Applications, Data Representation, InterHost Communication.
+  - End To End Connections: Handles transportation issues between hosts, ensures data transport reliability, establishes, maintains and terminates virtual circuits, provides reliability through fault detection and recovery, information flow control.
+  - Data Delivery: Provides connectivity and path selection between two host systems, routes data packets, selects best path to deliver data, prioritizes data known as Quality of Service (QoS).
+  - Access to Media: Defines how data is formatted for transmission and how access to the network is controlled.
+  - Binary Transmission: Defines the electrical, mechanical, procedural, and functional specifications for activating, maintaining, and deactivating the 
+physical link.
+- Physical Media Types: Twisted Pair, Coaxial, Fiber Optic, Wireless LAN.
+- Devices: Hub or Repeater, Network Interface Card, Data Link Devices (Bridges and Switches), Network Layer Devices (Routers and Layer 3 Switches).      
+- IP Address: A standard that defines the manner in which the network layers of two hosts interact. IP addresses are 32 bit long, hierarchical addressing scheme.
+- Gateway: A combination of hardware and software that connects dissimilar network environments. It performs translations at multiple layers of the open 
+system interconnection (OSI) model.
+- Firewall: A system or group of systems that manages access between two or more networks.
